@@ -1,7 +1,7 @@
 # MailHog scripts
 
 Contains script to get MailHog up and running as a service.
-Use at your own risk. I suck at scripting.
+**Use at your own risk. I suck at scripting.**
 
 ## Instructions
 Download the setup.sh file and execute it using sudo. It needs to add stuff to /etc/init.d/ and /opt/
